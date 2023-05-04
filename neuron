@@ -1,9 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T12:40:50.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.2.7" etag="iesT_uCRRn6kbH-6-qBL" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T13:03:05.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SQKwjQRjZoJUe-vNMXqS" version="21.2.7" type="github">
   <diagram name="Page-1" id="PPwjdATTqlsrZbWeIEYb">
-    <mxGraphModel>
+    <mxGraphModel dx="1687" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="glZc8P88rX-QhVulyrJ--19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=10;" edge="1" parent="1" source="glZc8P88rX-QhVulyrJ--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--1" value="&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Lucida Console&quot;&gt;w&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=10;" edge="1" parent="1" source="glZc8P88rX-QhVulyrJ--3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--3" value="&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Lucida Console&quot;&gt;w&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=10;" edge="1" parent="1" source="glZc8P88rX-QhVulyrJ--4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--4" value="&lt;font style=&quot;font-size: 22px;&quot; face=&quot;Lucida Console&quot;&gt;w&lt;sub&gt;n&lt;/sub&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--5" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=3;jumpSize=16;strokeColor=default;rounded=0;jumpStyle=line;dashPattern=1 4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200.21" y="340" as="sourcePoint" />
+            <mxPoint x="200.21" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="199.5" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=10;" edge="1" parent="1" source="glZc8P88rX-QhVulyrJ--9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--9" value="&lt;font style=&quot;font-size: 15px;&quot; face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;sub&gt;1&lt;/sub&gt;&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=10;" edge="1" parent="1" source="glZc8P88rX-QhVulyrJ--12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--12" value="&lt;font style=&quot;&quot; face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;x&lt;/span&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12.5px;&quot;&gt;2&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endSize=10;" edge="1" parent="1" source="glZc8P88rX-QhVulyrJ--15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--15" value="&lt;font style=&quot;&quot; face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;x&lt;/span&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12.5px;&quot;&gt;n&lt;/font&gt;&lt;/sub&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--17" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=3;jumpSize=16;strokeColor=default;rounded=0;jumpStyle=line;dashPattern=1 4;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="340" as="sourcePoint" />
+            <mxPoint x="60" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=10;" edge="1" parent="1" source="glZc8P88rX-QhVulyrJ--18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--18" value="&lt;font style=&quot;font-size: 29px;&quot; face=&quot;Lucida Console&quot;&gt;Σ&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="200" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endSize=10;" edge="1" parent="1" source="glZc8P88rX-QhVulyrJ--22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="250.33333333333337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--22" value="&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Lucida Console&quot;&gt;f&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--25" value="&lt;font style=&quot;font-size: 19px;&quot; face=&quot;Lucida Console&quot;&gt;y&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--26" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Input&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--27" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Weights&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--29" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Activation &lt;br&gt;function&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="glZc8P88rX-QhVulyrJ--30" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Output&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
